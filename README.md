@@ -59,3 +59,22 @@ Created a dashboard containing three Pivot Charts, dynamic KPIs, and City and Pr
 - `UK_Customer_Service_Dashboard.png` — Dashboard screenshot.
 
 *All data used in this project is fictional and intended for learning and portfolio demonstration.*
+
+
+Pivot Tables: Ticket volumes by city, team and priority.
+
+
+
+Pivot Charts: Visual comparisons of customer service performance.
+
+
+
+Slicers: Interactive filtering by city and priority.
+
+
+
+Dynamic KPIs: Total tickets, SLA met tickets and average customer satisfaction.
+
+
+
+GitHub: A separate project with your Excel workbook, dashboard screenshot and README.
